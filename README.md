@@ -6,7 +6,7 @@ Um manipulador de documentos (RG, CPF, Inscrição Estadual, etc)
 Usando Composer
 
 ``` bash
-$ composer require emcvlt/state-registration
+$ composer require emcvlt/documents
 ```
 
 ## Uso
